@@ -1,11 +1,13 @@
-package chapter3page95;
 
-class Tank {
-	float calibr;
-}
+
+
 
 public class Exercise2ch3 {
 	public static void main(String[] args) {
+		class Tank {
+	float calibr;
+}
+		
 		Tank t1 = new Tank();
 		Tank t2 = new Tank();
 		
