@@ -5,7 +5,7 @@ public class Exercise9ch3 {
         double d1 = Double.MAX_VALUE;
         float f1 = Float.MAX_VALUE;
 
-        System.out.println(d1);
-        System.out.println(f1);
+        System.out.printf("d1 = %e \n", d1);
+        System.out.printf("f1 = %e \n", f1);
     }
 }
